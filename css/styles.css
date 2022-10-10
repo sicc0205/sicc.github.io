@@ -26,7 +26,7 @@ padding-top: 60px;
 img{
     width: 300px;
     margin-bottom: 20px;
-    margin:0 auto;
+    margin: auto;
 }
 .content-aboutMe ul{
     width: 350px;
@@ -46,15 +46,20 @@ img{
 .content-aboutMe span{
     padding-left: 40px;
 }
+.content-aboutMe h2{
+    width: 70%;
+    margin-top: 150px;
+    font-size: 24px;
+}
 .content-contact{
     height: calc(100vh - 60px);
-    background-color: #558BD6;
+    background-color: #EBD8EB;
     padding-top: 60px;
     padding-left: 300px;
 }
 .content-contact h1{
     
-    color: rgb(239,239,238);
+    color: rgb(135, 206, 235);
     width: 70%;
     text-align: center;
     font-size: 3.5em;
@@ -85,7 +90,7 @@ img{
 
     font-weight: bold;
     font-size: 18px;
-    color: #E9B700;
+    color: #EBD8EB;
     
 }
 
